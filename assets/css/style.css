@@ -1,0 +1,22 @@
+.page{
+    padding: 50px;
+    margin: 10px;
+}
+.jumbotron{
+   background-color: black;
+   color: white;
+   text-align: center;
+   padding: 50px;
+}
+p{
+    font-size: 25px;
+    color: beige;
+}
+h2{
+    background-color: rgb(29, 28, 28);
+    width: 100%;
+    color:white;
+    font-size: 18px;
+    font-weight: bold;
+    padding: 15px;
+}
